@@ -56,8 +56,6 @@ Output: 0.71 (71% chance of arrest)
 ```
 notebooks/       - Jupyter notebooks for training and evaluation
 data/            - Raw and cleaned datasets
-models/          - (Optional) Saved models for reuse
-outputs/         - Confusion matrix plots, reports
 README.md        - This file
 ```
 
