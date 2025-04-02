@@ -3,7 +3,7 @@
 This project is part of my hands-on learning journey through the LinkedIn Learning + Wolfram Research Machine Learning Certificate. It demonstrates that **machine learning can be done using only a Chromebook and free tools** — no expensive hardware or cloud services needed.
 
 ## 🎯 Objective
-Build a machine learning model that predicts whether a police stop will lead to an arrest, using open data from the LAPD. This project also aims to empower learners who are underrepresented in ML by showing that **you can get started with minimal resources**.
+Build a machine learning model that predicts whether a police stop will lead to an arrest (Coming Soon!), using open data from the LAPD. This project also aims to empower learners who are underrepresented in ML by showing that **you can get started with minimal resources**.
 
 ## 🚀 For Beginners: How This Project Helps You
 If you're new to ML, this repo shows you:
@@ -27,7 +27,7 @@ If you're new to ML, this repo shows you:
 ## 📊 Dataset
 - **Source:** Los Angeles Police Department Open Data (filtered for relevant fields)
 - **Features:** Crime description, area, victim sex, descent, time
-- **Target:** Whether an arrest was made
+- **Target:** Whether an arrest was made (Comming Soon!)
 
 ## ⚙️ ML Workflow
 ### 1. Data Preprocessing
@@ -45,7 +45,7 @@ If you're new to ML, this repo shows you:
 - ROC-AUC Score
 - Confusion Matrix Visualization (with `matplotlib`)
 
-### 4. Inference Example (Coming Soon)
+### 4. Inference Example
 ```python
 # Example
 Input: {'Vict Sex': 'M', 'Vict Descent': 'W', 'Crime': 'BATTERY', 'Area': 'Hollywood'}
